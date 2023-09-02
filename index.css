@@ -1,0 +1,20 @@
+.h1 {
+    font-family: 'Caveat', cursive;
+    color: rgb(182, 101, 55);
+}
+
+main {
+    max-height: 932px;
+    max-width: 100vh;
+    background-color: rgb(182, 101, 55);
+}
+
+div {
+font-family: 'Caveat', cursive;
+max-height: 300px;
+max-width: 50%;
+border: 5px solid rgb(211, 145, 70);
+margin: 1rem;
+padding: 1rem;
+background-color: rgb(235, 209, 97);
+}
